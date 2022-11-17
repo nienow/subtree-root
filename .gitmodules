@@ -1,0 +1,3 @@
+[submodule "childB"]
+	path = childB
+	url = git@github.com:nienow/subtree-childA.git
